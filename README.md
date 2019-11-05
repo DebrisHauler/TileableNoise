@@ -16,6 +16,8 @@ This is my python implementation of the Diamond Square algorithm to generate noi
 Sorry for the lack of comments in the code, but I'm throwing this online for people who quickly need some tileable noise.
 
 Made with python 3.6
+Dependencies: PIL
+All of which are satisfied if you work with the Anaconda.
 
 Just download the two python files to the same folder, then run ImageDrawer.py. ds.png will appear in the directory where you ran it.
 
