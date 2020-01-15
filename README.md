@@ -19,9 +19,9 @@ Made with python 3.6
 
 Dependencies: PIL
 
-You'll have PIL if you're working with the Anaconda.
+You'll have PIL if you're working with Anaconda.
 
-Just download the two python files to the same folder, then run ImageDrawer.py. ds.png will appear in the directory where you ran it.
+Just download this repository as a zip file, then run ImageDrawer.py. ds.png will appear in the directory where you ran it.
 
 Be careful initializing DiamondSquare.Grid() higher than 9 if you muck with the code. If you try 10 for example, then the image width & height is (2^10)+1 and this will take 4 times longer than using 9.
 
